@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map-POC</string>
+    <string name="search_places">Search places...</string>
+</resources>
