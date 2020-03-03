@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Map-POC</string>
     <string name="search_places">Search places...</string>
+    <string name="submit">Submit</string>
+    <string name="address">Property Address</string>
+    <string name="property_title">Property Title</string>
+    <string name="describe_more_about_property">Describe more about property</string>
 </resources>
